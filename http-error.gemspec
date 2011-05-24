@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name     = 'http-error'
-  s.version  = '1.1'
+  s.version  = '1.2'
   s.summary  = 'Return HTTP error codes while rendering the corresponding error page in Rails.'
   s.homepage = 'http://codyrobbins.com/software/http-error'
   s.author   = 'Cody Robbins'

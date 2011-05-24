@@ -9,6 +9,8 @@ This Rails plugin makes an `http_error` method available in `ApplicationControll
 
 Returning `false` allows you to use `http_error` in `before_filter`’s to halt the filter chain.
 
+Full documentation is at [RubyDoc.info](http://rubydoc.info/gems/http-error).
+
 Example
 --------
 
@@ -29,15 +31,23 @@ The following will return a 404 HTTP code, render `public/404.html`, and halt th
       end
     end
 
-Tested with
------------
+Colophon
+--------
+
+### Tested with
 
 * Rails 3.0.5 — 20 May 2011
 
-Credits
--------
+### Contributing
 
-© 2011 [Cody Robbins](http://codyrobbins.com/)
+* [Source](https://github.com/codyrobbins/http-error)
+* [Bug reports](https://github.com/codyrobbins/http-error/issues)
+
+To send patches, please fork on GitHub and submit a pull request.
+
+### Credits
+
+© 2011 [Cody Robbins](http://codyrobbins.com/). See LICENSE for details.
 
 * [Homepage](http://codyrobbins.com/software/http-error)
 * [Follow me on Twitter](http://twitter.com/codyrobbins)

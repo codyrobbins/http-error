@@ -31,6 +31,8 @@ The following will return a 404 HTTP code, render `public/404.html`, and halt th
       end
     end
 
+The `get_user` method above is better handled by the [Declarative Find](http://codyrobbins.com/software/declarative-find) gem, but it illustrates use of `http_error`.
+
 Colophon
 --------
 

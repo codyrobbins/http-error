@@ -1,5 +1,5 @@
-HTTP Error for Rails
-====================
+HTTP Error
+==========
 
 This Rails plugin makes an `http_error` method available in `ApplicationController` which
 

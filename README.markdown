@@ -34,6 +34,10 @@ The following will return a 404 HTTP code, render `public/404.html`, and halt th
 Colophon
 --------
 
+### See also
+
+If you like this gem, you may also want to check out [Declarative Find](http://codyrobbins.com/software/declarative-find), [Create New](http://codyrobbins.com/software/create-new), and [Save Changes To](http://codyrobbins.com/software/save-changes-to).
+
 ### Tested with
 
 * Rails 3.0.5 — 20 May 2011
@@ -50,4 +54,5 @@ To send patches, please fork on GitHub and submit a pull request.
 © 2011 [Cody Robbins](http://codyrobbins.com/). See LICENSE for details.
 
 * [Homepage](http://codyrobbins.com/software/http-error)
+* [My other gems](http://codyrobbins.com/software#gems)
 * [Follow me on Twitter](http://twitter.com/codyrobbins)

@@ -38,7 +38,7 @@ Colophon
 
 ### See also
 
-If you like this gem, you may also want to check out [Declarative Find](http://codyrobbins.com/software/declarative-find), [Create New](http://codyrobbins.com/software/create-new), and [Save Changes To](http://codyrobbins.com/software/save-changes-to).
+If you like this gem, you may also want to check out [Declarative Find](http://codyrobbins.com/software/declarative-find), [Create New](http://codyrobbins.com/software/create-new), or [Save Changes To](http://codyrobbins.com/software/save-changes-to).
 
 ### Tested with
 
